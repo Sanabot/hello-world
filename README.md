@@ -1,4 +1,4 @@
-# Welcome to GitHub
+﻿# Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!Aren't you excited mate?
 
@@ -21,6 +21,7 @@ You are currently viewing your project's **README** file. **_README_** files are
 [Learn more about GitHub Pages](https://pages.github.com/)
 
 ## Rename this repository to publish your site
+this is my project as a beginner for hactoberfest.
 
 We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
